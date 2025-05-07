@@ -1,3 +1,3 @@
-1 название папки соблюсти chromium-1169
-2 в ней убедиться на наличие dll
-![image](https://github.com/user-attachments/assets/7b92c19b-893a-4860-96cb-b236a369e873)
+version https://git-lfs.github.com/spec/v1
+oid sha256:afa5d9e1229fdc5d89efdbe8ff211501a95e3ad6532235575813cd8f7ed5752d
+size 209
